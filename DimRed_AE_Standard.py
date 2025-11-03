@@ -24,7 +24,7 @@ Y = load_vector(file, 'Y')
 
 X_train = X
 
-# %%
+# Autoencoder structure
 def build_autoencoder(
     input_dim,
     encoding_dim,
